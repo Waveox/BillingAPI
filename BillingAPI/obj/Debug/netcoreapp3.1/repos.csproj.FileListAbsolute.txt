@@ -1,0 +1,10 @@
+C:\Users\Kirils\source\repos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kirils\source\repos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kirils\source\repos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kirils\source\repos\bin\Debug\netcoreapp3.1\repos.exe
+C:\Users\Kirils\source\repos\obj\Debug\netcoreapp3.1\repos.csprojAssemblyReference.cache
+C:\Users\Kirils\source\repos\obj\Debug\netcoreapp3.1\repos.AssemblyInfoInputs.cache
+C:\Users\Kirils\source\repos\obj\Debug\netcoreapp3.1\repos.AssemblyInfo.cs
+C:\Users\Kirils\source\repos\obj\Debug\netcoreapp3.1\repos.RazorTargetAssemblyInfo.cache
+C:\Users\Kirils\source\repos\obj\Debug\netcoreapp3.1\staticwebassets\repos.StaticWebAssets.Manifest.cache
+C:\Users\Kirils\source\repos\obj\Debug\netcoreapp3.1\staticwebassets\repos.StaticWebAssets.xml

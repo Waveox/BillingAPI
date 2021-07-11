@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kirils\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kirils\\.nuget\\packages"
+    ]
+  }
+}
