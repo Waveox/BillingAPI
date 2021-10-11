@@ -2,7 +2,7 @@ Swagger UI available at http://localhost:5000/swagger/index.html
 
 Default logging at C:\temp\BillingAPI
 
-############################################################################################################################################
+##############################################################################
 
 # Task-Billing-API
 This repository contains a description of the programming task used to evaluate software developers.
